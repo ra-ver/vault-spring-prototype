@@ -1,0 +1,11 @@
+spring.profiles: development
+dog.name: Puppy
+dog.age: 3
+cat.name: Meow
+cat.age: 4
+cat.location: Toronto
+
+
+---
+spring.profiles: test
+cat.location: Ottawa
