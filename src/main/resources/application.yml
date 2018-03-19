@@ -1,0 +1,6 @@
+spring.profiles.active: development
+
+dog.name: Puppy
+dog.age: 3
+cat.name: Meow
+cat.age: 4
