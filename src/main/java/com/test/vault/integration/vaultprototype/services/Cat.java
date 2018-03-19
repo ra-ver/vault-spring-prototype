@@ -14,5 +14,6 @@ public class Cat {
   private String name;
   @Value("${cat.age}")
   private String age;
-
+  @Value("${cat.location}")
+  private String location;
 }
